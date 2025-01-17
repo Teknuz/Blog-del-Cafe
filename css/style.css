@@ -276,7 +276,7 @@ padding: 5rem;
 .campo{
 display: flex;
 margin-bottom: 2rem;
-padding-right: 2rem;
+gap: 2rem;
 }
 .campo__label{
 flex: 0 0 9rem;
