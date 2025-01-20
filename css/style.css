@@ -21,6 +21,7 @@ body{
     font-family: var(--fuenteParrafos);
     font-size: 1.6rem;
     line-height: 2;
+    margin: 0;
 }
 
 /*Globlales*/
@@ -72,8 +73,8 @@ img{
 .no-webp .header{
     background-image: url(../img/banner.jpg) ;
 }
-.header{
-   
+.header{  
+    background-image: url(../img/banner.jpg) ;
     height: 60rem;
     background-size: cover;
     background-repeat: no-repeat;
